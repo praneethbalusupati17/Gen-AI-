@@ -1,0 +1,15 @@
+﻿Prompt,Temperature,Rank,Token ID,Candidate Token,Raw Logit,Scaled Logit,Probability (%)
+Artificial intelligence is,1.0,1,257,' a',-111.2691,-111.2691,12.05
+Artificial intelligence is,1.0,2,262,' the',-112.0987,-112.0987,5.25
+Artificial intelligence is,1.0,3,407,' not',-112.2936,-112.2936,4.32
+Artificial intelligence is,1.0,4,281,' an',-112.6288,-112.6288,3.09
+Artificial intelligence is,1.0,5,783,' now',-113.0341,-113.0341,2.06
+Artificial intelligence is,1.0,6,530,' one',-113.1209,-113.1209,1.89
+Act as senoir python developer and built an calulator,1.0,1,329,' for',-109.7578,-109.7578,18.19
+Act as senoir python developer and built an calulator,1.0,2,284,' to',-110.5673,-110.5673,8.1
+Act as senoir python developer and built an calulator,1.0,3,326,' that',-110.6457,-110.6457,7.49
+The capital of France is,0.7,1,262,' the',-100.2498,-143.214,22.74
+The capital of France is,0.7,2,783,' now',-100.8175,-144.0251,10.11
+The capital of France is,0.7,3,257,' a',-100.8555,-144.0793,9.57
+The capital of France is,0.7,4,4881,' France',-101.2102,-144.5859,5.77
+The capital of France is,0.7,5,6342,' Paris',-101.2143,-144.5918,5.73
